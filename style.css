@@ -8,3 +8,7 @@ p {
   font-size: 20px;
   line-height: 39px;
 }
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
